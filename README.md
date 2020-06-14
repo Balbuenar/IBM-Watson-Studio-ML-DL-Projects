@@ -1,0 +1,2 @@
+# IBM-Watson-Studio-ML-DL-Projects
+Tutorial Machine learning and deep learning open the door to new capabilities that can not only improve forecasting and targeting but can also enable new capabilities. In this tutorial, you will explore the following key capabilities: Learn how to pick the best model for churn prediction See how to take advantage of Watson services Create your own visual recognition model Use tools to create test and use deep learning models
